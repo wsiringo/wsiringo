@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wsiringo
 - 👀 I’m interested in kayak fishing on the ocean
 - 🌱 I’m currently learning too many contemporary programming languages
-- 💞️ I’m looking to collaborate on seeking a peaceful life
+- 💞️ I’m in search of a life in peace
 - 📫 How to reach me is by emailing wilakl@yahoo.co.nz
 
 <!---
